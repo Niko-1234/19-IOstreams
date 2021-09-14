@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+*.pdb
+*.lik
 
 # Precompiled Headers
 *.gch
